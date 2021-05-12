@@ -11,4 +11,4 @@ app.get("/", (req, res) => {
 let Discord = require('discord.js')
 let client = new Discord.Client();
 
-client.login('ODM4NDkyMDg1OTkyMjkyMzUz.YI74mw.L1xImDrQyhBbSfTGwdsaJq762U4')
+client.login('ODM4NDkyMDg1OTkyMjkyMzUz.YI74mw.V0Z3O-GG4VDcKEwzsmlvABrlRqY')
